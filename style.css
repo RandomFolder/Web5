@@ -1,0 +1,26 @@
+body
+{
+    margin: 0 auto;
+}
+
+.container
+{
+    height: 100%;
+    width: 100%;
+}
+
+.Row
+{
+    width: 100%;
+    text-align: center;
+    font-size: 0;
+}
+
+.item
+{
+    display: inline-block;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 0;
+}
